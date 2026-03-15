@@ -94,7 +94,7 @@ Handles client-side logic and communicates with backend APIs.
 
 ### 1 Clone the repository
 
-git clone https://github.com/your-username/travel-blog.git
+git clone https://github.com/ksbyte/travel-blog
 
 ---
 
